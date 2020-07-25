@@ -4,10 +4,10 @@
 
 ## Creator of projects like
 
-- Snekdown
-- Chunkmaster
-- CryptPNG
-- Greenvironment
+- [Snekdown](https://github.com/trivernis/snekdown)
+- [Chunkmaster](https://github.com/trivernis/spigot-chunkmaster)
+- [CryptPNG](https://github.com/trivernis/cryptpng)
+- [Greenvironment](https://github.com/team-greenvironment/greenvironment-server)
 
 and a lot more...
 
